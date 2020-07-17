@@ -1,0 +1,23 @@
+{
+  "id":"2492-be78-4beb-a4fc-ed1012c22320",
+  "documentType":"contract",
+  "lifecycleState":"final",
+  "version":"1.0.0.",
+  "name":"document2",
+  "creationDate":"2017-11-28T10:16:58.02Z",
+  "attachments":[
+    {
+      "id":"e1372e3f-3e30-4f50-b037-68cbbf7f0944",
+      "name":"attachment2.pdf",
+      "mimeType":"application/pdf",
+      "size":2500131,
+      "sizeUnit":"bytes",
+      "url":"/documentManagement/v1/documents/893344d4-be78-4beb-a4fc-ed1012c22320/attachments/e1372e3f-3e30-4f50-b037-68cbbf7f0944.pdf"
+    }
+  ],
+  "relatedObject":{
+    "id":"19892b9e-a181-4a07-917c-1ad6932b5797",
+    "entityType":"product",
+    "reference":""
+  }
+}

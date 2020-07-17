@@ -1,0 +1,12 @@
+{
+  "pathParams": [
+    {
+      "name": "documentId",
+      "value": "893344d4-be78-4beb-a4fc-ed1012c22320"
+    },
+    {
+      "name": "attachmentId",
+      "value": "616adf4a-0279-4915-a08c-89644557be99.pdf"
+    }
+  ]
+}

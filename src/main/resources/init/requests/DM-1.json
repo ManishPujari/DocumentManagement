@@ -1,0 +1,12 @@
+{
+  "pathParams": [
+    {
+      "name": "documentId",
+      "value": "32131656843551"
+    },
+    {
+      "name": "attachmentId",
+      "value": "bill123.pdf"
+    }
+  ]
+}

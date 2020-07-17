@@ -1,0 +1,9 @@
+{
+  "headers": [
+    {
+      "name": "Content-Disposition",
+      "value": "attachment; filename=616adf4a-0279-4915-a08c-89644557be99.pdf"
+    }
+  ],
+  "objectRef": "addon.pdf"
+}

@@ -1,0 +1,12 @@
+{
+  "pathParams": [
+    {
+      "name": "documentId",
+      "value": "9b08e1b1-37aa-4732-a846-d152818ec0e0"
+    },
+    {
+      "name": "attachmentId",
+      "value": "contractinfo.pdf"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "queryParams": [
+    {
+      "name": "relatedObject.id",
+      "value": "19892b9e-a181-4a07-917c-1ad6932b5797"
+    },
+    {
+      "name": "relatedObject.entityType",
+      "value": "product"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "fullName": "String:href"
+  },
+  {
+    "fullName": "Integer:priority"
+  },
+  {
+    "fullName": "Boolean:preselected"
+  },
+  {
+    "fullName": "String:description"
+  },
+  {
+    "fullName": "List<Reference>:places"
+  },
+  {
+    "fullName": "OffsetDateTime:lastUpdate"
+  },
+  {
+    "fullName": "List<VersionReference>:serviceCandidates"
+  },
+  {
+    "fullName": "List<VersionReference>:resourceCandidates"
+  },
+  {
+    "fullName": "Reference:termsAndConditionsRef"
+  },
+  {
+    "fullName": "List<OfferingActionRelation>:relatedProductOfferingActions"
+  },
+  {
+    "fullName": "List<Reference>:serviceLevelAgreements"
+  },
+  {
+    "fullName": "String:version"
+  },
+  {
+    "fullName": "List<ProductSpecificationCharacteristic>:characteristics"
+  },
+  {
+    "fullName": "TimePeriod:validFor"
+  },
+  {
+    "fullName": "String:shortDescription"
+  },
+  {
+    "fullName": "LifecycleStatusEnum:lifecycleStatus",
+    "enumValues": [
+      "active",
+      " retired",
+      " obsolete"
+    ]
+  },
+  {
+    "fullName": "List<String>:tags"
+  },
+  {
+    "fullName": "List<Reference>:channels"
+  },
+  {
+    "fullName": "VersionReference:productSpecificationRef"
+  },
+  {
+    "fullName": "String:name"
+  },
+  {
+    "fullName": "VersionReference:catalogRef"
+  },
+  {
+    "fullName": "List<OfferingAction>:offeringActions"
+  },
+  {
+    "fullName": "Boolean:isCustomerVisible"
+  },
+  {
+    "fullName": "List<Attachment>:attachments"
+  },
+  {
+    "fullName": "String:id"
+  },
+  {
+    "fullName": "OfferingGroupEnum:group",
+    "enumValues": [
+      "service",
+      " addon",
+      " discount",
+      " device",
+      " VAS",
+      " SIM",
+      " bundle",
+      " bundledProduct",
+      " tariff",
+      " topUp",
+      " number",
+      " campaign",
+      " deliveryMethod",
+      " billDeliveryMethod"
+    ]
+  },
+  {
+    "fullName": "List<ProductOfferingTerm>:productOfferingTerms"
+  },
+  {
+    "fullName": "List<VersionReference>:categories"
+  },
+  {
+    "fullName": "Boolean:isBundle"
+  },
+  {
+    "fullName": "List<ProductOfferingPrice>:productOfferingPrices"
+  },
+  {
+    "fullName": "List<VersionReference>:bundledProductOfferings"
+  },
+  {
+    "fullName": "List<ProductOfferingRelation>:relatedProductOfferings"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "id":"893344d4-be78-4beb-a4fc-ed1012c22320",
+  "documentType":"invoice",
+  "lifecycleState":"final",
+  "version":"1.0.0.",
+  "name":"document1",
+  "creationDate":"2017-11-28T10:16:58.02Z",
+  "attachments":[
+    {
+      "id":"616adf4a-0279-4915-a08c-89644557be99",
+      "name":"attachment1.pdf",
+      "mimeType":"application/pdf",
+      "size":537000,
+      "sizeUnit":"bytes",
+      "url":"/documentManagement/v1/documents/893344d4-be78-4beb-a4fc-ed1012c22320/attachments/616adf4a-0279-4915-a08c-89644557be99.pdf"
+    }
+  ],
+  "relatedObject":{
+    "id":"19892b9e-a181-4a07-917c-1ad6932b5797",
+    "entityType":"product",
+    "reference":""
+  }
+}

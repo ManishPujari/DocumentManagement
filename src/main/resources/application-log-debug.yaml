@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: INFO
+    com.dt.europe.hal.api.privacymanagement.controller: DEBUG
+    com.dt.europe.hal.api.shared.filters: INFO
+    com.dt.europe.hal.api.shared.validator: INFO
